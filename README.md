@@ -136,6 +136,8 @@ Role Name: KarpenterNodeRole-`<your-cluster-name>`{=html}
 
 # 🔹 Step 5: Install Karpenter via Terraform
 
+*Use File karpenter-install.tf file*
+
 ``` bash
 terraform init
 terraform plan
