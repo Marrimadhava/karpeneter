@@ -163,10 +163,10 @@ kubectl get ec2nodeclass
 
 Expected Output:
 
-'''bash
+``` bash
 NAME READY AGE
 default True 7h44m
-'''
+```
 
 ------------------------------------------------------------------------
 
